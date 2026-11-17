@@ -1,0 +1,24 @@
+# Entorno virtual
+.venv/
+venv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuracion local de VS Code
+.vscode/
